@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fayssal-el-elmofatiche
 - 👀 I’m interested in finance, technology and AI
-- 🌱 I’m currently learning dash, AI agents, React and Go
+- 🌱 I’m currently learning dash, AI agents, React, Go and Zig
 - 💞️ I’m looking to collaborate on finance and data-centric projects
 - 📫 Reach out to me best through my LinkedIn profile
 
