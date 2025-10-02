@@ -49,6 +49,8 @@ My passion lies in building **data-driven products** that **transform complex fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/cpp-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
 ---
@@ -59,7 +61,6 @@ My passion lies in building **data-driven products** that **transform complex fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
 </p>
 
 - REST APIs and backend services for **scalable financial platforms**.
@@ -90,7 +91,7 @@ My passion lies in building **data-driven products** that **transform complex fi
 </p>
 
 - Machine Learning models for **forecasting, risk management, and compliance**.
-- **LLM integrations**: GPT-4, Claude, Gemini, LLaMA, Mistral, Hugging Face.
+- **LLM integrations**: OpenAI GPT-4/5, Claude, Gemini, LLaMA, Mistral, Hugging Face, CrewAI, AutoGen, PydanticaI
 - Explainable AI using **SHAP**, LangChain, and other modern frameworks.
 
 ---
@@ -123,10 +124,8 @@ My passion lies in building **data-driven products** that **transform complex fi
 
 ### **Currently Learning / Exploring**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 - **Agentic AI architectures** for autonomous financial decision-making.
@@ -137,19 +136,6 @@ My passion lies in building **data-driven products** that **transform complex fi
 ---
 
 > ⚡ *This tech stack represents the tools and technologies I use to create innovative, data-driven solutions for the financial industry.*
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| **[Termflow](https://flowistic.ai/termflow)** | AI-powered platform for automated term sheet generation & validation. Includes dedicated agents for legal, compliance, and risk checks. | FastAPI, React, GPT-4, Azure, PostgreSQL |
-| **[YieldFlow](https://flowistic.ai)** *(Flowistic project)* | Professional financial analytics platform for dividend analysis with multi-LLM ensemble models. | FastAPI, React, Redis, Docker |
-| **Standa** | Open-source Python training project for financial teams. | Python, Pandas, Plotly/Dash |
-| **FinTech DevNight** | Event series fostering collaboration between finance and tech professionals. | Community-driven |
-
-> Explore all repositories [here](https://github.com/fayssal-elmofatiche?tab=repositories).
-
----
 
 ## 🎤 Speaking & Publications
 
